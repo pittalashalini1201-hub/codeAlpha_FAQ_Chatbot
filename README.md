@@ -35,3 +35,12 @@ A simple AI FAQ Chatbot built using Flask and Natural Language Processing (NLP).
 * What is machine learning?
 * What is Python?
 * What is NLP?
+## Project Screenshots
+
+### Homepage
+
+![Homepage](homepage.png)
+
+### Chatbot Response
+
+![Chatbot Response](chatbot_response.png)
