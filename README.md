@@ -21,13 +21,22 @@ A simple AI FAQ Chatbot built using Flask and Natural Language Processing (NLP).
 ## How to Run
 
 1. Install dependencies:
+
+   ```bash
    pip install -r requirements.txt
+   ```
 
 2. Run the application:
+
+   ```bash
    python3 app.py
+   ```
 
 3. Open in your browser:
+
+   ```
    http://127.0.0.1:5000
+   ```
 
 ## Example Questions
 
@@ -35,12 +44,17 @@ A simple AI FAQ Chatbot built using Flask and Natural Language Processing (NLP).
 * What is machine learning?
 * What is Python?
 * What is NLP?
+
 ## Project Screenshots
 
 ### Homepage
 
-![Homepage](homepage.png)
+![Homepage](chatbot%201.png)
 
-### Chatbot Response
+### Chatbot interface
 
-![Chatbot Response](chatbot_response.png)
+![Chatbot Interface](chatbot%202.png)
+
+### Chatbot response
+
+![Chatbot Response](chatbot%203.png)
